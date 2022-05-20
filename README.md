@@ -8,3 +8,5 @@ master brach가 물려있었고 하나로 통합했음
 edge detection
 
 github 비번을 reset 하라는 알림이 옴...????
+
+notion slack
