@@ -9,4 +9,4 @@ edge detection
 
 github 비번을 reset 하라는 알림이 옴...????
 
-notion slack
+notion slack 둘이 연동해야함
