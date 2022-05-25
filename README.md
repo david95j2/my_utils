@@ -11,4 +11,9 @@ github 비번을 reset 하라는 알림이 옴...????
 
 notion slack 둘이 연동해야함
 
-전체정리필요!!!!
+전체정리필요!!!! 
+
+python
+pytorch
+detection model들....
+vision transformer...
