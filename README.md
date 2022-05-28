@@ -17,5 +17,5 @@ python
 pytorch
 detection model들....
 vision transformer...
-+ drone dataset
-ppt 마무리
++ drone dataset 
+ppt 마무리(데이터셋 첨부까지)
