@@ -13,9 +13,12 @@ notion slack 둘이 연동해야함
 
 전체정리필요!!!! 
 
-python
+python[완료]
+
 pytorch
 detection model들....
 vision transformer...
+
+
 + drone dataset 
 ppt 마무리(데이터셋 첨부까지)
