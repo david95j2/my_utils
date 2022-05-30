@@ -22,3 +22,4 @@ vision transformer...
 
 + drone dataset 
 ppt 마무리(데이터셋 첨부까지)
+aihub ppt추가!!
