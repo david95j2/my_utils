@@ -23,3 +23,5 @@ notion slack 둘이 연동해야함
 + drone dataset 
 ppt 마무리(데이터셋 첨부까지)
 aihub ppt추가!!
+
++ tensorrt 변환
