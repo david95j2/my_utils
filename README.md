@@ -25,3 +25,4 @@ ppt 마무리(데이터셋 첨부까지)
 aihub ppt추가!!
 
 + tensorrt 변환
++ xavier agx
