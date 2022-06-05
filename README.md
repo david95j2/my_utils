@@ -26,3 +26,4 @@ aihub ppt추가!!
 
 + tensorrt 변환
 + xavier agx
+yolov5
