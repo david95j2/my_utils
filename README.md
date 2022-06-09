@@ -16,8 +16,7 @@ notion slack 둘이 연동해야함
 다음주 수요일까지...
 - python[완료]
 - pytorch[start]
-- detection model들.... deeplab 
-efficientdet
+- detection model들.... [완료]
 - vision transformer...
 
 
