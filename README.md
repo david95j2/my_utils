@@ -27,4 +27,5 @@ aihub ppt추가!!
 + tensorrt 변환(.engine) 
 + xavier agx
 yolov5
-polygon or polyline
+polygon or polyline 
+loss 알아보기
