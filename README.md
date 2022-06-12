@@ -28,4 +28,4 @@ aihub ppt추가!!
 + xavier agx
 yolov5
 polygon or polyline 
-loss 알아보기
+loss 알아보기 ( 가능하면 사용)
