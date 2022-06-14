@@ -30,4 +30,4 @@ yolov5
 polygon or polyline 
 loss 알아보기 ( 가능하면 사용)
 
-후처리가 더 중요해졌다...
+후처리가 더 중요해졌다...chale 알고리즘
