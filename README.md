@@ -31,6 +31,7 @@ polygon or polyline
 loss 알아보기 ( 가능하면 사용)
 
 weakly unsupervised learning
+or unsupervised
 
 후처리가 더 중요해졌다...clahe 알고리즘
 + grid 로 쪼개서 inference
