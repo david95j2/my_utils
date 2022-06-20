@@ -30,8 +30,9 @@ yolov5
 polygon or polyline 
 loss 알아보기 ( 가능하면 사용)
 
-weakly unsupervised learning
+weakly supervised learning
 or unsupervised
+or semi supervised
 label 교육 방식을 변경
 
 후처리가 더 중요해졌다...clahe 알고리즘
