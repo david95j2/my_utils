@@ -30,7 +30,7 @@ yolov5
 polygon or polyline 
 loss 알아보기 ( 가능하면 사용)
 
-weakly supervised learning
+weakly supervised learning -> class activation map
 or unsupervised
 or semi supervised
 label 교육 방식을 변경
