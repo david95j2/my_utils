@@ -1,6 +1,7 @@
 # custom
 my_utils/
 *.onnx
+src/data/crack/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
