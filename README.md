@@ -36,8 +36,5 @@ or semi supervised
 label 교육 방식을 변경
 pose extimation
 
-...
-업무추가..새롭게 train
-
 후처리가 더 중요해졌다...clahe 알고리즘
 + grid 로 쪼개서 inference
