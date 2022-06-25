@@ -35,6 +35,7 @@ or unsupervised
 or semi supervised
 label 교육 방식을 변경
 pose extimation
+ppt 발표
 
 후처리가 더 중요해졌다...clahe 알고리즘
 + grid 로 쪼개서 inference
