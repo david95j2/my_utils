@@ -2,6 +2,7 @@
 my_utils/
 *.onnx
 src/data/crack/
+src/data/crack_test_origin/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
