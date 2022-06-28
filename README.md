@@ -31,8 +31,9 @@ polygon or polyline
 loss 알아보기 ( 가능하면 사용)
 
 weakly supervised learning -> class activation map
-or unsupervised
+or unsupervised 
 or semi supervised
+위 두개의 차이점을 위주로
 label 교육 방식을 변경
 pose extimation
 ppt 발표
