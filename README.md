@@ -36,8 +36,6 @@ or semi supervised
 위 두개의 차이점을 위주로
 label 교육 방식을 변경
 pose extimation
-ppt 발표
-안했넵...
 
 후처리가 더 중요해졌다...clahe 알고리즘
 + grid 로 쪼개서 inference
