@@ -1,4 +1,4 @@
-# my_utils
+# my_utils 내 보물창고 된다
 
 여기서 commit 한게 git log 에 안찍힘
 ...? 안되는 이유점
