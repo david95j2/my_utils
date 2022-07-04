@@ -41,6 +41,9 @@
 1. git commit 후 git log 에 안찍힘
     
     master brach가 물려있었고 하나로 통합했음(origin/master 맞물려있음)
+    
+    git log의 커밋기록이 있지만 github에 contributions in 2022에 기록이 남지 않음..?
+
 
 2. github 비번을 reset 하라는 알림이 옴...????
 
