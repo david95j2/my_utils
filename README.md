@@ -44,6 +44,7 @@
     
     git log의 커밋기록이 있지만 github에 contributions in 2022에 기록이 남지 않음..?
 
+    확인 필요!!
 
 2. github 비번을 reset 하라는 알림이 옴...????
 
