@@ -47,6 +47,8 @@ Console Error
 
     확인 필요!! 끝까지 안됨 commit 이 얽혀있나싶음. 커밋풀기!!
 
+    git -reflog
+
 2. github 비번을 reset 하라는 알림이 옴...????
 
     gitgub가 token 방식을 바꿔서 전 유저에게 알림 메세지가 옴
