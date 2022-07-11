@@ -1,7 +1,7 @@
 # Utils
 
 
-잡다한 걸 다 넣을 예정, log 기록 추가
+log 기록 추가
 
 Console Error
 
