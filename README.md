@@ -1,9 +1,7 @@
 # Utils
 
 
-log 기록 추가
-
-Console Error
+log 기록 추가, Console Error
 
 ---
 ---
