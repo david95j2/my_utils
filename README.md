@@ -12,7 +12,7 @@ log 기록 추가, Console Error
 2. weakly supervised learning -> class activation map
     
     - weakly supervised semantic segmentation grad-cam algorithm
-3. semi supervised -> pesudo labeling
+3. semi supervised -> pesudo labeling 깃허브 이미 있음
 ---
 ### To do List
 
