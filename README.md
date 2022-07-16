@@ -8,7 +8,7 @@ log 기록 추가, Console Error
 
 ### Memo
 
-1. edge detection
+1. edge detection -> clahe
 2. weakly supervised learning -> class activation map
     
     - weakly supervised semantic segmentation grad-cam algorithm
@@ -21,7 +21,7 @@ log 기록 추가, Console Error
     python[완료]
     pytorch[start]
     detection model들.... [완료]
-    vision transformer...
+    vision transformer... 
 
 
 1. notion slack 둘이 연동 [ ]
