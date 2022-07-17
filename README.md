@@ -22,6 +22,7 @@ log 기록 추가, Console Error
     pytorch[start]
     detection model들.... [완료]
     vision transformer... 
+    함수 및 클래스 작성법...
 
 
 1. notion slack 둘이 연동 [ ]
