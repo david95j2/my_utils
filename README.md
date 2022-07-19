@@ -45,7 +45,9 @@ log 기록 추가, Console Error
 
     확인 필요!! 끝까지 안됨 commit 이 얽혀있나싶음. 커밋풀기!!
 
-    git -reflog
+    git -reflog 
+
+    같은 에러 상황의 블로그 찾음
 
 2. github 비번을 reset 하라는 알림이 옴...????
 
