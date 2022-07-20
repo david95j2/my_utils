@@ -20,7 +20,7 @@ log 기록 추가, Console Error
 
     python[완료]
     pytorch[start]
-    detection model들.... [완료]
+    detection model들.... [수정중]
     vision transformer... 
 
 
