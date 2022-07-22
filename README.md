@@ -21,7 +21,7 @@ log 기록 추가, Console Error
     python[완료]
     pytorch[수정중]
     detection model들.... [수정중]
-    vision transformer... 
+    vision transformer... [패캠 강의]
 
 
 1. notion slack 둘이 연동 [ ]
