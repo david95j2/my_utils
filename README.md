@@ -24,7 +24,7 @@ log 기록 추가, Console Error
     vision transformer... [패캠 강의]
 
 
-1. notion slack 둘이 연동 [ ]
+1. notion slack 둘이 연동 [완료]
 
 2. Korad
 
