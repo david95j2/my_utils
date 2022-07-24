@@ -16,7 +16,7 @@ log 기록 추가, Console Error
 ---
 ### To do List
 
-0. 전체정리필요_소장님 [다음주]
+0. 전체정리필요_소장님 [이번주]
 
     python[완료]
     pytorch[수정중]
