@@ -20,7 +20,7 @@ log 기록 추가, Console Error
 
     python[완료]
     pytorch[완료]
-    detection model들.... [수정중]
+    detection model들.... [완료]
     vision transformer... [패캠 강의]
 
 
