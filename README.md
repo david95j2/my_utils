@@ -21,7 +21,6 @@ log 기록 추가, Console Error
     python[완료]
     pytorch[완료]
     detection model들.... [완료]
-    vision transformer... [패캠 강의]
 
 
 1. notion slack 둘이 연동 [완료]
@@ -34,6 +33,10 @@ log 기록 추가, Console Error
 
 
 4. polygon or polyline + loss 알아보기 ( 가능하면 사용 ) / pose estimation
+
+5. vision transformer... [패캠 강의]
+
+
 ---
 ### Error log
 
