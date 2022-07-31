@@ -36,6 +36,8 @@ log 기록 추가, Console Error
 4. polygon or polyline + loss 알아보기 ( 가능하면 사용 ) / pose estimation
 
 5. vision transformer... [패캠 강의]
+   
+    + Mask RCNN 으로 학습
 
 
 ---
