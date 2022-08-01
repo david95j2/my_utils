@@ -21,7 +21,7 @@ log 기록 추가, Console Error
     python[완료]
     pytorch[완료]
     detection model들.... [완료]
-    cuda 설치해드리기 [ ]
+    cuda 설치해드리기 [내일 꼭...]
 
 
 1. notion slack 둘이 연동 [완료]
