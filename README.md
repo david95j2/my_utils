@@ -1,7 +1,7 @@
-# Utils!!!!!!!!!휴가중!!
+# Utils
 
 
-log 기록 추가, Console Error
+log with Console Error
 
 ---
 ---
@@ -16,12 +16,15 @@ log 기록 추가, Console Error
 ---
 ### To do List
 
-0. 전체정리필요_소장님 [이번주]
+0. 전체정리필요_소장님 [완료]
 
     python[완료]
+
     pytorch[완료]
+    
     detection model들.... [완료]
-    cuda 설치해드리기 [내일 꼭...]
+    
+    cuda 설치해드리기 [완료]
 
 
 1. notion slack 둘이 연동 [완료]
@@ -31,7 +34,6 @@ log 기록 추가, Console Error
     후처리가 더 중요해졌다...clahe 알고리즘 + grid 로 쪼개서 inference
 
 3. 드론 데이터 셋 안에 내용 까보기
-
 
 4. polygon or polyline + loss 알아보기 ( 가능하면 사용 ) / pose estimation
 

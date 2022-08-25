@@ -3,6 +3,8 @@ my_utils/
 *.onnx
 src/data/crack/
 src/data/crack_test_origin/
+src/data/joo_3/
+src/data/saved_patches_2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
