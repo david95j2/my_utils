@@ -16,31 +16,11 @@ log with Console Error
 ---
 ### To do List
 
-0. 전체정리필요_소장님 [완료]
+0. Make Custom Dataset
+    - image to coco json format [ ]
+    - inference test [ ]
 
-    python[완료]
-
-    pytorch[완료]
-    
-    detection model들.... [완료]
-    
-    cuda 설치해드리기 [완료]
-
-
-1. notion slack 둘이 연동 [완료]
-
-2. Korad
-
-    후처리가 더 중요해졌다...clahe 알고리즘 + grid 로 쪼개서 inference
-
-3. 드론 데이터 셋 안에 내용 까보기
-
-4. polygon or polyline + loss 알아보기 ( 가능하면 사용 ) / pose estimation
-
-5. vision transformer... [패캠 강의]
-   
-    + Mask RCNN 으로 학습
-
+1. Train Swin-V2
 
 ---
 ### Error log
@@ -65,3 +45,27 @@ log with Console Error
 
 1. drone dataset / ppt 마무리(데이터셋 첨부까지) / aihub ppt 추가
 2. xavier agx + tensorrt 변환(.engine)
+3. 전체정리필요_소장님 [완료]
+
+    python[완료]
+
+    pytorch[완료]
+    
+    detection model들.... [완료]
+    
+    cuda 설치해드리기 [완료]
+
+
+4. notion slack 둘이 연동 [완료]
+
+5. Korad
+
+    후처리가 더 중요해졌다...clahe 알고리즘 + grid 로 쪼개서 inference
+
+6. 드론 데이터 셋 안에 내용 까보기
+
+7. polygon or polyline + loss 알아보기 ( 가능하면 사용 ) / pose estimation
+
+8. vision transformer... [패캠 강의]
+   
+    + Mask RCNN 으로 학습
